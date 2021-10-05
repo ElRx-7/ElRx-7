@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ElRx-7
+- 👀 I’m interested in python
+- 🌱 I’m currently learning ...
