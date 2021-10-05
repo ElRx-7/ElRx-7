@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ElRx-7
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Tomas
+- 👀 I'm from Argentina 
+- 🙋‍♂️ and I'm 15 
